@@ -1,1 +1,1 @@
-# tindog-course-example-
+TinDog Starting Files
